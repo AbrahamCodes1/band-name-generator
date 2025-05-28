@@ -1,3 +1,4 @@
+![Band Name Generator Cover](cover.png)
 # Band Name Generator
 
 This is a simple Python project built on Day 1 of my 100 Days of Code challenge.
